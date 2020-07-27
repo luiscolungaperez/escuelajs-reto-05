@@ -4,7 +4,7 @@
   "description": "Reto 5 Septiembre 28: Curso de Fundamentos de JavaScript",
   "main": "index.js",
   "scripts": {
-    "start": "live-server --open=public --entry-file=index.html"
+    "start": "live-server --host=localhost --port=8082 --open=public --entry-file=index.html"
   },
   "repository": {
     "type": "git",
